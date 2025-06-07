@@ -63,7 +63,7 @@ This app uses the [OpenWeatherMap](https://openweathermap.org/current) API to re
 * `units=metric`: returns temperature in Celsius
 * `lang=he`: weather description in Hebrew
 
-***📝 Note****: Free-tier API keys are limited in usage.*
+***📝 Note*** *: Free-tier API keys are limited in usage.*
 
 ## 🚧 Challenges
 During development, several challenges were encountered:
