@@ -12,6 +12,12 @@ Each city is displayed in a card showing:
 - Humidity percentage
 - A visual emoji icon indicating the whether: cold (❄️), pleasant (🌤️), or hot (☀️)
 
+### 🔧 Adding More Cities
+
+To display more cities in the app, simply update the predefined array of city names in the constants file. Each city should also have a corresponding Hebrew translation for proper display.
+
+This allows the application to scale easily by supporting additional weather cards with no need for structural changes to the code.
+
 ## ⚙️ Setup and Installation
 To run the project locally, follow these steps:
 - Open your Command Line.
